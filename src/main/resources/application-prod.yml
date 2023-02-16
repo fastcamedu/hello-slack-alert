@@ -1,4 +1,4 @@
 notification:
   slack:
     webhook:
-      url: [Put your Slack-webhook URL here]
+      url: [Put your Slack-webhook URL for Production Alert here]
