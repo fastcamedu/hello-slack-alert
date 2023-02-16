@@ -1,0 +1,4 @@
+notification:
+  slack:
+    webhook:
+      url: https://hooks.slack.com/services/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
